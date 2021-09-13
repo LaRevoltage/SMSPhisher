@@ -9,7 +9,7 @@ Guide:
 5. Copy sid and token on main page
 6. cd SMSPhisher
 7. ```pip install twilio```
-8. python3 phishing.py
+8. ```python3 smsphish.py```
 9. Enter data you got from twilio, if you are going to phish with site you can pass phone number entering.
 10. Send sms with your text or with QIWI sample
 11. If you plan to get code using phone bot restart the application, enter data and select second option.
